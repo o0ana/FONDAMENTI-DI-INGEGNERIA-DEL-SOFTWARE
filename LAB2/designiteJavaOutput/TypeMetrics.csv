@@ -1,0 +1,5 @@
+Project,Package,Class,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-In,Fan-Out,File,Line no
+assignment,assignment.cart,Cart,1,0,9,9,39,14,0,0,0.0,2,1,/mnt/d/Marianna/Documenti/GitHub/FIS/LAB2/assignment/app/src/main/java/assignment/cart/Cart.java,6
+assignment,assignment.cart,Product,8,0,18,18,69,18,0,0,0.0,1,0,/mnt/d/Marianna/Documenti/GitHub/FIS/LAB2/assignment/app/src/main/java/assignment/cart/Product.java,3
+assignment,assignment.user,User,9,0,18,18,78,22,0,0,0.1111111111111111,1,1,/mnt/d/Marianna/Documenti/GitHub/FIS/LAB2/assignment/app/src/main/java/assignment/user/User.java,11
+assignment,assignment.user,UsersManager,2,1,4,4,27,7,0,0,0.75,0,2,/mnt/d/Marianna/Documenti/GitHub/FIS/LAB2/assignment/app/src/main/java/assignment/user/UsersManager.java,13
