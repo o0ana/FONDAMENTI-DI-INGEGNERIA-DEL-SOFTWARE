@@ -1,0 +1,6 @@
+- **LAB1_TUTORIAL**: esercitazione guidata su come scrivere un caso d'uso testuale accompagnato da diagramma UML e mockup.
+- **LAB1**: scrittura dei casi d'uso "RegistraAccount" e "VisualizzaMedia" (con varianti Premium) per la piattaforma streaming, corredati da diagrammi dei casi d'uso e mockup delle schermate.
+- **LAB2**: analisi statica del codice Java (SonarQube e Designite) su un progetto di e-commerce, con individuazione di code smell/bug e relative correzioni, più diagrammi delle classi.
+- **LAB3**: modellazione con diagrammi di sequenza UML (Visual Paradigm) del calcolo del totale scontato di una linea d'ordine, confrontando un design a controllo centralizzato e uno a controllo distribuito (pattern GRASP Controller).
+- **LAB4**: implementazione in Java di un sistema di noleggio videoteca (Cliente, Noleggio, Film, Rendiconto) applicando il pattern Strategy per le diverse politiche di prezzo (Regolare, Novità, Bambini).
+- **LAB5**: implementazione in Java del caso di studio "ATM" (prelievo, deposito, verifica saldo) con classi per conto, banca dati, cassiere automatico e dispenser di contante, testate con JUnit.
